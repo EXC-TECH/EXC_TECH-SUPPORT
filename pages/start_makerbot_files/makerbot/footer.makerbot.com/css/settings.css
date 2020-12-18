@@ -1,0 +1,147 @@
+footer.makerbot-footer .links ul li, footer.makerbot-footer .copyright {
+  font-family: "Antenna", Arial, sans-serif; }
+
+footer.makerbot-footer .sales h5 {
+  font-family: "Antenna Bold", Arial, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+footer.makerbot-footer .sales {
+  font-family: "Antenna Light", Arial, sans-serif; }
+
+footer.makerbot-footer .links ul li, footer.makerbot-footer .copyright {
+  font-family: "Antenna", Arial, sans-serif; }
+
+footer.makerbot-footer .sales h5 {
+  font-family: "Antenna Bold", Arial, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+footer.makerbot-footer .sales {
+  font-family: "Antenna Light", Arial, sans-serif; }
+
+body {
+  margin: 0px; }
+
+footer.makerbot-footer {
+  display:none;
+  background-color: #313131;
+  color: #9e9e9e;
+  padding-top: 0px;
+  padding-bottom: 30px;
+  position: relative; }
+  footer.makerbot-footer .row:first-of-type {
+    margin-bottom: 30px; }
+    @media only screen and (min-width: 768px) {
+      footer.makerbot-footer .row:first-of-type {
+        margin-bottom: 30px; } }
+  footer.makerbot-footer .links ul {
+    list-style: none;
+    margin: 5px 0;
+    padding: 0;
+    -webkit-padding-start: 0; }
+    @media only screen and (max-width: 767px) {
+      footer.makerbot-footer .links ul {
+        -webkit-padding-start: 0;
+        -webkit-margin-after: 0;
+        -webkit-margin-before: 0;
+        line-height: 22px; } }
+    footer.makerbot-footer .links ul li {
+      display: inline-block; }
+      footer.makerbot-footer .links ul li a {
+        color: #9e9e9e;
+        font-size: 13px;
+        margin-right: 12px;
+        text-decoration: none;
+        text-transform: uppercase; }
+        footer.makerbot-footer .links ul li a:hover {
+          text-decoration: underline; }
+  footer.makerbot-footer .footer-padding-wrapper {
+    padding: 0 81px; }
+  footer.makerbot-footer .sales {
+    font-size: 16px;
+    color: #9e9e9e; }
+    @media only screen and (max-width: 767px) {
+      footer.makerbot-footer .sales {
+        margin-bottom: 15px; } }
+    footer.makerbot-footer .sales a {
+      color: #9e9e9e;
+      margin-right: 5px;
+      text-decoration: none; }
+    footer.makerbot-footer .sales h5 {
+      font-size: 13px;
+      line-height: 24px;
+      margin-bottom: 0;
+      margin-top: 0;
+      color: #fff; }
+    footer.makerbot-footer .sales .or, footer.makerbot-footer .sales .chat {
+      display: none; }
+      @media only screen and (min-width: 768px) {
+        footer.makerbot-footer .sales .or, footer.makerbot-footer .sales .chat {
+          display: inline-block; } }
+  footer.makerbot-footer .copyright {
+    font-size: 13px;
+    line-height: 21px; }
+    footer.makerbot-footer .copyright .divider {
+      display: inline-block;
+      width: 1px;
+      height: 25px;
+      margin: 5px 10px;
+      background-color: #9e9e9e; }
+    footer.makerbot-footer .copyright .stratasys-logo, footer.makerbot-footer .copyright .makerbot-logo {
+      background-repeat: no-repeat;
+      background-size: 100%;
+      display: inline-block; }
+    footer.makerbot-footer .copyright .stratasys-logo {
+      background-image: url("https://footer.makerbot.com/img/svg/StratasysLogo.svg");
+      height: 32px;
+      width: 107px; }
+    footer.makerbot-footer .copyright .makerbot-logo {
+      background-image: url("https://footer.makerbot.com/img/svg/MakerBotLogo.svg");
+      height: 33px;
+      width: 150px; }
+  footer.makerbot-footer .social {
+    margin-bottom: 20px; }
+    @media only screen and (min-width: 768px) {
+      footer.makerbot-footer .social {
+        padding-top: 40px;
+        margin-bottom: 0; } }
+    footer.makerbot-footer .social button {
+      background: none;
+      cursor: pointer;
+      vertical-align: middle; }
+      footer.makerbot-footer .social button:hover {
+        background-color: #222; }
+    footer.makerbot-footer .social .newsletter {
+      color: white;
+      cursor: pointer;
+      display: inline;
+      font-family: "Roboto", sans-serif;
+      font-size: 13px;
+      text-decoration: none;
+      width: auto;
+      line-height: 24px;
+      margin: 0px 10px 0px 0px; }
+    footer.makerbot-footer .social a {
+      background-size: 24px 25px;
+      display: inline-block;
+      height: 25px;
+      margin: 0 7px;
+      vertical-align: bottom;
+      width: 24px;
+      vertical-align: middle; }
+      footer.makerbot-footer .social a.fb {
+        background-image: url("https://footer.makerbot.com/img/svg/FooterIcon_Facebook.svg"); }
+      footer.makerbot-footer .social a.twitter {
+        background-image: url("https://footer.makerbot.com/img/svg/FooterIcon_Twitter.svg"); }
+      footer.makerbot-footer .social a.linkedin {
+        background-image: url("https://footer.makerbot.com/img/svg/FooterIcon_LinkedIn.svg"); }
+      footer.makerbot-footer .social a.youtube {
+        background-image: url("https://footer.makerbot.com/img/svg/FooterIcon_Youtube.svg"); }
+      footer.makerbot-footer .social a:hover {
+        opacity: .7; }
+  footer.makerbot-footer .hq-info {
+    font-family: "Roboto", sans-serif; }
+  footer.makerbot-footer .row.footer-logos {
+    margin-top: 25px;
+    margin-bottom: 5px; }
