@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.force.com	TRUE	/	FALSE	1999999999	BrowserId	j-YDkkFPEeu-FTnZ0d19og
+.salesforce.com	TRUE	/	FALSE	1999999999	BrowserId	kGHqakFPEeuFli9Kn3xJ9A
+
